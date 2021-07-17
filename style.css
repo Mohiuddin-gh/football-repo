@@ -4,7 +4,7 @@
 body{
     font-family: 'Poppins', sans-serif;
    
-          ;
+         
 }        
 /* header style */
 
@@ -162,7 +162,7 @@ nav li:hover a{
 }
 .player-info p{
     width: 300px;
-    height: 40;
+    height: 40px;
 
 }
 
